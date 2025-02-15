@@ -15,6 +15,9 @@ Actividad 3 - Python for Data Science IBM
 Actividad 4 - Crear cuenta en github
 - [Enlace a la cuenta](https://github.com/Artu-GR)
 
+Actividad 5 - Portafolio de evidencias en linea
+- [Enlace a la cuenta](https://github.com/Artu-GR/IA_EJ2025)
+
 Kagg 1 / Cert 1 - Intro to Programming
 - [Cert 1](./EneFeb/Cert_1/Arturo_Garza_Intro_to_Programming.png) - [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/intro-to-programming)
 
