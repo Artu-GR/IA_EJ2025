@@ -16,7 +16,7 @@ Actividad 4 - Crear cuenta en github
 - [Enlace a la cuenta](https://github.com/Artu-GR)
 
 Actividad 5 - Portafolio de evidencias en linea
-- [Enlace a la cuenta](https://github.com/Artu-GR/IA_EJ2025)
+- [Enlace al repositorio](https://github.com/Artu-GR/IA_EJ2025)
 
 Actividad 6 - Determinantes de matrices
 - [Documento](./EneFeb/Actividad_6/AGR_Act6.pdf)
