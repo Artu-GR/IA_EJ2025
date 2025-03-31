@@ -40,7 +40,17 @@ Actividad 11 - Programando Regresion Lineal en Python
 - [Documento](./Mar/Actividad_11/AGR_Act11.pdf)
 - [Codigo](./Mar/Actividad_11/RegresionLogistica.ipynb)
 
+Actividad 12 - Programando Arbol de Decision en Python
+- [Documento](./Mar/Actividad_12/AGR_Act12.pdf)
+- [Codigo](./Mar/Actividad_12/ArboldeDecision.ipynb)
 
+Actividad 13 - Programando Random Forest en Python
+- [Documento](./Mar/Actividad_13/AGR_Act13.pdf)
+- [Codigo](./Mar/Actividad_13/RandomForest.ipynb)
+
+Actividad 14 - Programando K-Nearest-Neighbor en Python
+- [Documento](./Mar/Actividad_14/AGR_Act14.pdf)
+- [Codigo](./Mar/Actividad_14/KNN.ipynb)
 
 # Abril-Mayo
 
@@ -72,3 +82,6 @@ Kagg 8 / Cert 8 - Intro to SQL
 
 Kagg 9 / Cert 9 - Advanced SQL
 - [Cert 9](./Mar/Cert_9/Arturo_Garza_Advanced_SQL.png) -  [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/advanced-sql)
+
+Kagg 10 / Cert 10 - Intro to Deep Learning
+- [Cert 10](./Mar/Cert_10/Arturo_Garza_Intro_to_Deep_Learning.png) -  [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/intro-to-deep-learning)
