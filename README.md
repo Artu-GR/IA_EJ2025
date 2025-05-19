@@ -54,6 +54,8 @@ Actividad 14 - Programando K-Nearest-Neighbor en Python
 
 # Abril-Mayo
 
+Tú no has visto nada... 🐧
+
 # Kaggle Certificates
 
 Kagg 1 / Cert 1 - Intro to Programming
@@ -85,3 +87,24 @@ Kagg 9 / Cert 9 - Advanced SQL
 
 Kagg 10 / Cert 10 - Intro to Deep Learning
 - [Cert 10](./Mar/Cert_10/Arturo_Garza_Intro_to_Deep_Learning.png) -  [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/intro-to-deep-learning)
+
+Kagg 11 / Cert 11 - Computer Vision
+- [Cert 11](./AbrMay/Cert_11/Arturo_Garza_Computer_Vision.png) -  [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/computer-vision)
+
+Kagg 12 / Cert 12 - Time Series
+- [Cert 12](./AbrMay/Cert_12/Arturo_Garza_Time_Series.png) -  [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/time-series)
+
+Kagg 13 / Cert 13 - Data Cleaning
+- [Cert 13](./AbrMay/Cert_13/Arturo_Garza_Data_Cleaning.png) -  [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/data-cleaning)
+
+Kagg 14 / Cert 14 - Intro to AI Ethics
+- [Cert 14](./AbrMay/Cert_14/Arturo_Garza_Intro_to_AI_Ethics.png) -  [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/intro-to-ai-ethics)
+
+Kagg 15 / Cert 15 - Geospatial Analysis
+- [Cert 15](./AbrMay/Cert_15/Arturo_Garza_Geospatial_Analysis.png) -  [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/geospatial-analysis)
+
+Kagg 16 / Cert 16 - Machine Learning Explainability
+- [Cert 16](./AbrMay/Cert_16/Arturo_Garza_Machine_Learning_Explainability.png) -  [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/machine-learning-explainability)
+
+Kagg 17 / Cert 17 - Intro to Game AI and Reinforcement Learning
+- [Cert 17](./AbrMay/Cert_17/Arturo_Garza_Intro_to_Game_AI_and_Reinforcement_Learning.png) -  [Kaggle Certificate](https://www.kaggle.com/learn/certification/arturogarza04/intro-to-game-ai-and-reinforcement-learning)
